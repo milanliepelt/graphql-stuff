@@ -1,6 +1,6 @@
 # graphql-stuff
 
-[https://blog.logrocket.com/using-graphql-strawberry-fastapi-next-js/](Tutorial)
+[Tutorial](https://blog.logrocket.com/using-graphql-strawberry-fastapi-next-js/)
 
 ### after upgrading to python 3.11
 
